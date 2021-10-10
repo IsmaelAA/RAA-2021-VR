@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuVR.unity
     guid: c72266273b87f47498eea4d48bb02c61
   - enabled: 1
-    path: Assets/MainSceneVR.unity
-    guid: 15c04f260851ff04d9a53009b8a56d21
+    path: Assets/MainScene.unity
+    guid: 224c9d40409d7344eb5050d45bae99af
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c8face35e7cb33446b76821934b7928c, type: 2}
